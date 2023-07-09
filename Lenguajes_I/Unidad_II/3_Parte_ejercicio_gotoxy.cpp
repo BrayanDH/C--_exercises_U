@@ -24,12 +24,12 @@ int main()
   cin >> factura;
 
   int fecha;
-  Gotoxy(25, 1);
+  Gotoxy(20, 1);
   cout << "Fecha: ";
   cin >> fecha;
 
   int cliente;
-  Gotoxy(40, 1);
+  Gotoxy(35, 1);
   cout << "Cliente: ";
   cin >> cliente;
 
