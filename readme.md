@@ -1,14 +1,10 @@
-Este repo contiene los archivos necesarios para la entrega del proyecto final del curso de ciencia de datos aplicada de IBM
-
-## Modulos
-
-### 1. Introduction
+### Introduccion
 
 Este proyecto contiene una lista de ejercicios de las materias cursadas en la UNAH subidos con fines demostrativos de las actividades realizadas.
 
-### 1. Materias cursadas:
+### Materias cursadas:
 
-### 2. Metodologia de la programacion
+### 1. Metodologia de la programacion
 
 Materia introductoria a la programacion, se utilizo el lenguaje de programacion C++ para la realizacion de los ejercicios.
 
