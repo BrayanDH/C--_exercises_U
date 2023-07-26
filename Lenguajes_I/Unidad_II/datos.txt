@@ -1,18 +1,13 @@
+
 Nombre: Juan
 Apellido: Perez
 
 Nombre: Alejandro
-Apellido: Juan
+Apellido: Lopez
+
+Nombre: Juan
+Apellido: Perez
 
 Nombre: Pedro
-Apellido: Lopez
-
-Nombre: Juan
-Apellido: Lopez
-
-Nombre: Alejandro
-Apellido: Perez
-
-Nombre: juan
 Apellido: Lopez
 

@@ -59,8 +59,14 @@ int main(void)
     system("CLS");
   }
 
+  // El arreglo es
+  cout << "El arreglo es: " << endl;
+  cout << datos << endl;
+  cout << endl;
+
   // Mostrar los datos guardos en el arreglo
   cout << "Datos guardados en el arreglo: " << endl;
+  cout << endl;
   for (int i = 0; i < cantidad; i++)
   {
     cout << "Nombre: " << datos[i][0] << endl;
