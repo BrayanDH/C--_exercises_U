@@ -8,23 +8,15 @@ load_dotenv()
 
 api_key = os.getenv('api_key')
 
-<<<<<<< HEAD
 #print(api_key)
 print("Resultado de la cosulta a NLU")
 print("-----------------------------")
 
 def get_request(url, **kwargs):
-    print(kwargs)
-
+    #print(kwargs)
     #print("GET from {} ".format(url))
-=======
-print(api_key)
 
 
-def get_request(url, **kwargs):
-    print(kwargs)
-    print("GET from {} ".format(url))
->>>>>>> 3ea890f847ce51394156dfcf8a5f249587ebafca
     try:
         # Call get method of requests library with URL and parameters
         if api_key:
@@ -39,11 +31,9 @@ def get_request(url, **kwargs):
 
     # Retrieve HTTP response status code and parse response data from JSON to Python dictionary
     status_code = response.status_code
-<<<<<<< HEAD
+
     #print("With status {} ".format(status_code))
-=======
-    print("With status {} ".format(status_code))
->>>>>>> 3ea890f847ce51394156dfcf8a5f249587ebafca
+
     json_data = json.loads(response.text)
     return json_data
 
