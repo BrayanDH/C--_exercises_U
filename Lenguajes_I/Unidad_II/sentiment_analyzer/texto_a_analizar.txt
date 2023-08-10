@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hoy me dieron un ascenso en el trabajo, pero se murio mi mascota
+=======
+Hola estoy feilz
+>>>>>>> 3ea890f847ce51394156dfcf8a5f249587ebafca

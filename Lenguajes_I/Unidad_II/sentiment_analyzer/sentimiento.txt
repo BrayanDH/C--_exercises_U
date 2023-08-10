@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 negative
+=======
+positive
+>>>>>>> 3ea890f847ce51394156dfcf8a5f249587ebafca
