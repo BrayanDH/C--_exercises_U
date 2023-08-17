@@ -5,8 +5,6 @@
   "python.formatting.provider": "none",
   "files.associations": {
     "*.embeddedhtml": "html",
-    "iosfwd": "cpp",
-    "ostream": "cpp",
-    "fstream": "cpp"
+    "iostream": "cpp"
   }
 }
